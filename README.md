@@ -145,7 +145,9 @@ Next, I shrunk the tachometer down so that it takes up less space. This is mostl
 
 I then moved the engine temperature and the fuel gauge off of the meters and made them flat. This makes it easier to read the gauges and clears up space on the speedometer and makes the smaller tachometer clearer. Where the fuel gauge used to be on the spedometer, I have added the current gear, time, and outside temperature.
 
-![Dashboard Sketch](assets/dashboardsketch.jpg)
+<img src="https://raw.githubusercontent.com/TheMysticalBard/HCIProject2/main/assets/dashboardsketch.jpg" alt="Dashboard Sketch" width="400"/>
+
+I drew a very rough sketch at first and then a more finalized version once I got the gist of what I wanted to do, as seen above.
 
 ### Interactive Link
 
